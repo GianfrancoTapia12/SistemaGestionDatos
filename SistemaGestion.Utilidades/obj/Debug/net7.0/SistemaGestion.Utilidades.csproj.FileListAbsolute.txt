@@ -1,0 +1,15 @@
+C:\SistemaGestion\SistemaGestion.Utilidades\bin\Debug\net7.0\SistemaGestion.Utilidades.deps.json
+C:\SistemaGestion\SistemaGestion.Utilidades\bin\Debug\net7.0\SistemaGestion.Utilidades.runtimeconfig.json
+C:\SistemaGestion\SistemaGestion.Utilidades\bin\Debug\net7.0\SistemaGestion.Utilidades.dll
+C:\SistemaGestion\SistemaGestion.Utilidades\bin\Debug\net7.0\SistemaGestion.Utilidades.pdb
+C:\SistemaGestion\SistemaGestion.Utilidades\obj\Debug\net7.0\SistemaGestion.Utilidades.csproj.AssemblyReference.cache
+C:\SistemaGestion\SistemaGestion.Utilidades\obj\Debug\net7.0\SistemaGestion.Utilidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\SistemaGestion\SistemaGestion.Utilidades\obj\Debug\net7.0\SistemaGestion.Utilidades.AssemblyInfoInputs.cache
+C:\SistemaGestion\SistemaGestion.Utilidades\obj\Debug\net7.0\SistemaGestion.Utilidades.AssemblyInfo.cs
+C:\SistemaGestion\SistemaGestion.Utilidades\obj\Debug\net7.0\SistemaGestion.Utilidades.csproj.CoreCompileInputs.cache
+C:\SistemaGestion\SistemaGestion.Utilidades\obj\Debug\net7.0\SistemaGestion.Utilidades.sourcelink.json
+C:\SistemaGestion\SistemaGestion.Utilidades\obj\Debug\net7.0\SistemaGestion.Utilidades.dll
+C:\SistemaGestion\SistemaGestion.Utilidades\obj\Debug\net7.0\refint\SistemaGestion.Utilidades.dll
+C:\SistemaGestion\SistemaGestion.Utilidades\obj\Debug\net7.0\SistemaGestion.Utilidades.pdb
+C:\SistemaGestion\SistemaGestion.Utilidades\obj\Debug\net7.0\SistemaGestion.Utilidades.genruntimeconfig.cache
+C:\SistemaGestion\SistemaGestion.Utilidades\obj\Debug\net7.0\ref\SistemaGestion.Utilidades.dll
