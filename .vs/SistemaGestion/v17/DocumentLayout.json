@@ -3,24 +3,20 @@
   "WorkspaceRootPath": "C:\\SistemaGestion\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6933EA18-2F0E-4A93-BC2C-C4B082D872AB}|SistemaGestion.AccesoDatos\\SistemaGestion.AccesoDatos.csproj|c:\\sistemagestion\\sistemagestion.accesodatos\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6933EA18-2F0E-4A93-BC2C-C4B082D872AB}|SistemaGestion.AccesoDatos\\SistemaGestion.AccesoDatos.csproj|solutionrelative:sistemagestion.accesodatos\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A1BF354F-CA48-4756-A79D-184DE9E2C045}|SistemaGestion\\SistemaGestion.csproj|c:\\sistemagestion\\sistemagestion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1BF354F-CA48-4756-A79D-184DE9E2C045}|SistemaGestion\\SistemaGestion.csproj|solutionrelative:sistemagestion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6933EA18-2F0E-4A93-BC2C-C4B082D872AB}|SistemaGestion.AccesoDatos\\SistemaGestion.AccesoDatos.csproj|c:\\sistemagestion\\sistemagestion.accesodatos\\migrations\\20240507050206_agregarmigracionidentidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6933EA18-2F0E-4A93-BC2C-C4B082D872AB}|SistemaGestion.AccesoDatos\\SistemaGestion.AccesoDatos.csproj|solutionrelative:sistemagestion.accesodatos\\migrations\\20240507050206_agregarmigracionidentidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6933EA18-2F0E-4A93-BC2C-C4B082D872AB}|SistemaGestion.AccesoDatos\\SistemaGestion.AccesoDatos.csproj|c:\\sistemagestion\\sistemagestion.accesodatos\\repositorio\\unidadtrabajo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6933EA18-2F0E-4A93-BC2C-C4B082D872AB}|SistemaGestion.AccesoDatos\\SistemaGestion.AccesoDatos.csproj|solutionrelative:sistemagestion.accesodatos\\repositorio\\unidadtrabajo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6933EA18-2F0E-4A93-BC2C-C4B082D872AB}|SistemaGestion.AccesoDatos\\SistemaGestion.AccesoDatos.csproj|c:\\sistemagestion\\sistemagestion.accesodatos\\migrations\\20240507051004_agregarempresasmigracion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6933EA18-2F0E-4A93-BC2C-C4B082D872AB}|SistemaGestion.AccesoDatos\\SistemaGestion.AccesoDatos.csproj|solutionrelative:sistemagestion.accesodatos\\migrations\\20240507051004_agregarempresasmigracion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6933EA18-2F0E-4A93-BC2C-C4B082D872AB}|SistemaGestion.AccesoDatos\\SistemaGestion.AccesoDatos.csproj|c:\\sistemagestion\\sistemagestion.accesodatos\\repositorio\\irepositorio\\iunidadtrabajo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6933EA18-2F0E-4A93-BC2C-C4B082D872AB}|SistemaGestion.AccesoDatos\\SistemaGestion.AccesoDatos.csproj|solutionrelative:sistemagestion.accesodatos\\repositorio\\irepositorio\\iunidadtrabajo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\SistemaGestion\\SistemaGestion.AccesoDatos\\Migrations\\20240507050635_AgregarEmpresasMigracion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SistemaGestion.AccesoDatos\\Migrations\\20240507050635_AgregarEmpresasMigracion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6933EA18-2F0E-4A93-BC2C-C4B082D872AB}|SistemaGestion.AccesoDatos\\SistemaGestion.AccesoDatos.csproj|c:\\sistemagestion\\sistemagestion.accesodatos\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6933EA18-2F0E-4A93-BC2C-C4B082D872AB}|SistemaGestion.AccesoDatos\\SistemaGestion.AccesoDatos.csproj|solutionrelative:sistemagestion.accesodatos\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6933EA18-2F0E-4A93-BC2C-C4B082D872AB}|SistemaGestion.AccesoDatos\\SistemaGestion.AccesoDatos.csproj|c:\\sistemagestion\\sistemagestion.accesodatos\\repositorio\\empresarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6933EA18-2F0E-4A93-BC2C-C4B082D872AB}|SistemaGestion.AccesoDatos\\SistemaGestion.AccesoDatos.csproj|solutionrelative:sistemagestion.accesodatos\\repositorio\\empresarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4E1CF682-CFBA-4D31-A0D6-0B5B502E0DFF}|SistemaGestion.Modelos\\SistemaGestion.Modelos.csproj|c:\\sistemagestion\\sistemagestion.modelos\\empresa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -34,84 +30,71 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "20240507051004_AgregarEmpresasMigracion.cs",
-              "DocumentMoniker": "C:\\SistemaGestion\\SistemaGestion.AccesoDatos\\Migrations\\20240507051004_AgregarEmpresasMigracion.cs",
-              "RelativeDocumentMoniker": "SistemaGestion.AccesoDatos\\Migrations\\20240507051004_AgregarEmpresasMigracion.cs",
-              "ToolTip": "C:\\SistemaGestion\\SistemaGestion.AccesoDatos\\Migrations\\20240507051004_AgregarEmpresasMigracion.cs",
-              "RelativeToolTip": "SistemaGestion.AccesoDatos\\Migrations\\20240507051004_AgregarEmpresasMigracion.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAAgwB8AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-07T05:10:04.69Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "20240507050635_AgregarEmpresasMigracion.cs",
-              "DocumentMoniker": "C:\\SistemaGestion\\SistemaGestion.AccesoDatos\\Migrations\\20240507050635_AgregarEmpresasMigracion.cs",
-              "RelativeDocumentMoniker": "SistemaGestion.AccesoDatos\\Migrations\\20240507050635_AgregarEmpresasMigracion.cs",
-              "ToolTip": "C:\\SistemaGestion\\SistemaGestion.AccesoDatos\\Migrations\\20240507050635_AgregarEmpresasMigracion.cs",
-              "RelativeToolTip": "SistemaGestion.AccesoDatos\\Migrations\\20240507050635_AgregarEmpresasMigracion.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-07T05:06:35.906Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ApplicationDbContextModelSnapshot.cs",
-              "DocumentMoniker": "C:\\SistemaGestion\\SistemaGestion.AccesoDatos\\Migrations\\ApplicationDbContextModelSnapshot.cs",
-              "RelativeDocumentMoniker": "SistemaGestion.AccesoDatos\\Migrations\\ApplicationDbContextModelSnapshot.cs",
-              "ToolTip": "C:\\SistemaGestion\\SistemaGestion.AccesoDatos\\Migrations\\ApplicationDbContextModelSnapshot.cs",
-              "RelativeToolTip": "SistemaGestion.AccesoDatos\\Migrations\\ApplicationDbContextModelSnapshot.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\SistemaGestion\\SistemaGestion\\Program.cs",
+              "RelativeDocumentMoniker": "SistemaGestion\\Program.cs",
+              "ToolTip": "C:\\SistemaGestion\\SistemaGestion\\Program.cs",
+              "RelativeToolTip": "SistemaGestion\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAA8AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-07T05:05:34.54Z",
+              "WhenOpened": "2024-05-08T21:30:40.075Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "20240507050206_AgregarMigracionIdentidad.cs",
-              "DocumentMoniker": "C:\\SistemaGestion\\SistemaGestion.AccesoDatos\\Migrations\\20240507050206_AgregarMigracionIdentidad.cs",
-              "RelativeDocumentMoniker": "SistemaGestion.AccesoDatos\\Migrations\\20240507050206_AgregarMigracionIdentidad.cs",
-              "ToolTip": "C:\\SistemaGestion\\SistemaGestion.AccesoDatos\\Migrations\\20240507050206_AgregarMigracionIdentidad.cs",
-              "RelativeToolTip": "SistemaGestion.AccesoDatos\\Migrations\\20240507050206_AgregarMigracionIdentidad.cs",
-              "ViewState": "AQIAAD0AAAAAAAAAAAAgwBsAAAApAAAA",
+              "Title": "UnidadTrabajo.cs",
+              "DocumentMoniker": "C:\\SistemaGestion\\SistemaGestion.AccesoDatos\\Repositorio\\UnidadTrabajo.cs",
+              "RelativeDocumentMoniker": "SistemaGestion.AccesoDatos\\Repositorio\\UnidadTrabajo.cs",
+              "ToolTip": "C:\\SistemaGestion\\SistemaGestion.AccesoDatos\\Repositorio\\UnidadTrabajo.cs",
+              "RelativeToolTip": "SistemaGestion.AccesoDatos\\Repositorio\\UnidadTrabajo.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwBwAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-07T05:02:06.381Z",
+              "WhenOpened": "2024-05-08T21:23:09.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IUnidadTrabajo.cs",
+              "DocumentMoniker": "C:\\SistemaGestion\\SistemaGestion.AccesoDatos\\Repositorio\\IRepositorio\\IUnidadTrabajo.cs",
+              "RelativeDocumentMoniker": "SistemaGestion.AccesoDatos\\Repositorio\\IRepositorio\\IUnidadTrabajo.cs",
+              "ToolTip": "C:\\SistemaGestion\\SistemaGestion.AccesoDatos\\Repositorio\\IRepositorio\\IUnidadTrabajo.cs",
+              "RelativeToolTip": "SistemaGestion.AccesoDatos\\Repositorio\\IRepositorio\\IUnidadTrabajo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T20:52:38.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmpresaRepositorio.cs",
+              "DocumentMoniker": "C:\\SistemaGestion\\SistemaGestion.AccesoDatos\\Repositorio\\EmpresaRepositorio.cs",
+              "RelativeDocumentMoniker": "SistemaGestion.AccesoDatos\\Repositorio\\EmpresaRepositorio.cs",
+              "ToolTip": "C:\\SistemaGestion\\SistemaGestion.AccesoDatos\\Repositorio\\EmpresaRepositorio.cs",
+              "RelativeToolTip": "SistemaGestion.AccesoDatos\\Repositorio\\EmpresaRepositorio.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAQwCEAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T18:54:23.634Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\SistemaGestion\\SistemaGestion.AccesoDatos\\Data\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "SistemaGestion.AccesoDatos\\Data\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\SistemaGestion\\SistemaGestion.AccesoDatos\\Data\\ApplicationDbContext.cs",
-              "RelativeToolTip": "SistemaGestion.AccesoDatos\\Data\\ApplicationDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-07T03:31:30.758Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
               "Title": "Empresa.cs",
               "DocumentMoniker": "C:\\SistemaGestion\\SistemaGestion.Modelos\\Empresa.cs",
               "RelativeDocumentMoniker": "SistemaGestion.Modelos\\Empresa.cs",
               "ToolTip": "C:\\SistemaGestion\\SistemaGestion.Modelos\\Empresa.cs",
               "RelativeToolTip": "SistemaGestion.Modelos\\Empresa.cs",
-              "ViewState": "AQIAABIAAAAAAAAAAAAowCcAAAAAAAAA",
+              "ViewState": "AQIAABIAAAAAAAAAAAAowCEAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-07T03:25:48.277Z",
+              "WhenOpened": "2024-05-08T04:57:31.574Z",
               "EditorCaption": ""
             }
           ]
